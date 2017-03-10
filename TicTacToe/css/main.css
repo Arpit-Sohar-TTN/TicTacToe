@@ -1,0 +1,45 @@
+.header {
+    background-color: lightcoral;
+    height: auto;
+    font-size: x-large;
+
+}
+.heading {
+    text-align: center;
+
+}
+img {
+    float: left;
+}
+
+
+table {
+    border: solid 2px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightslategrey;
+
+
+}
+tr , td {
+    border: solid;
+    width: 125px;
+    height: 125px;
+    font-size: 200%;
+    text-align: center;
+}
+#res {
+    text-align: center;
+    color: darkgreen;
+}
+#msg {
+    color: darkred;
+    text-align: center;
+}
+#btn {
+    text-align: center;
+    font-size: medium;
+}
+body {
+    background-color: paleturquoise;
+}
